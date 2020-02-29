@@ -1,0 +1,14 @@
+/* TEAM */
+Your title: Cammie Love.
+Site: email, link to a contact form, etc.
+Twitter: your Twitter username.
+Location: Chicago, United States.
+
+/* THANKS */
+Name: name or url
+
+/* SITE */
+Last update: 2020/02/28
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
+Software: Software used for the development
